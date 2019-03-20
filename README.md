@@ -1,6 +1,6 @@
 # DatabaseProject
 
-Project Topic: Database for a bank
+Project Topic: Database for a bank \\
 Database Design tool: MySQL Workbench
 
 Concepts Used: 
